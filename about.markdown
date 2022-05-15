@@ -6,12 +6,12 @@ permalink: /impr/
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Programmieren mit Chris
-Christoph Schmalfuß
-Witzlebenstr. 7
+Programmieren mit Chris | 
+Christoph Schmalfuß |
+Witzlebenstr. 7 |
 04157 Leipzig
 
-☎️ 01573O88149O (+49)
+☎️ 01573O88149O (+49) | 
 ✉️ post ät christoph-schmalfuss.de
 
 Haftung für Inhalte
