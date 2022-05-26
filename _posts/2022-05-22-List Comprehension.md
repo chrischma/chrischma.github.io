@@ -52,7 +52,7 @@ Das ist jetzt natürlich ein recht konstruiertes Beispiel, der eigentlich Spaß 
 
 # Praxisbeispiel 1 - Währungen umrechnen
 
-Stellt euch vor, ihr hab eine Liste mit 10 Geldbeträgen in USD und wollt die Beträge in Euro umrechnen.
+Stellt euch vor, ihr hab eine Liste mit einigen Geldbeträgen in USD und wollt die Beträge in Euro umrechnen.
 
 ```python
 betraege_in_euro = [100, 150, 240, 76, 140]
